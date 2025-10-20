@@ -1,0 +1,19 @@
+MyApp/
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/
+│   │   │   │   └── com/
+│   │   │   │       └── example/
+│   │   │   │           └── myapp/
+│   │   │   │               └── FloatingPanelService.java
+│   │   │   │               └── MainActivity.java
+│   │   │   ├── res/
+│   │   │   │   ├── layout/
+│   │   │   │   │   └── layout_floating_panel.xml
+│   │   │   │   └── drawable/
+│   │   │   │       └── your_image.xml
+│   │   │   └── AndroidManifest.xml
+│   └── build.gradle
+├── build.gradle
+└── settings.gradle
